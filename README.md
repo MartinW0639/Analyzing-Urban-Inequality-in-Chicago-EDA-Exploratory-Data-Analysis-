@@ -1,6 +1,8 @@
 # Exploratory-Data-Analysis
 # Analyzing-Urban-Inequality-in-Chicago
-SQL Exploration of Socioeconomic, Education, and Crime Data
+Data Exploration of Socioeconomic, Education, and Crime Data
+
+Predictive models and basic machine learning
 
 This project analyzes socioeconomic data from Chicago's 77 community areas to identify patterns, disparities, and relationships between various socioeconomic indicators. SQL is used for data querying, Python for analysis and visualization, Python libraries used include pandas, seaborn, matplotlib, numpy, scipy, and skit-learn.
 
